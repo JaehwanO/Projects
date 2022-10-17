@@ -20,3 +20,6 @@ Log
 * Started to downloading images from ImageNet. Filter these images on the backend into food_images and non_food_images
 * Downloading 50 random images from 1000 random classes
 * Then:filter 1000 random classes and images into food/not_food
+
+* 2022/10/16
+* Trained first test model using EfficientNetB0
